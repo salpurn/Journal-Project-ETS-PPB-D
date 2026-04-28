@@ -17,15 +17,17 @@ Tanpa perlu mengkhawatirkan memori lokal perangkat, jurnal ini sudah terintegras
 6. Cloud storage
 
 ## Rincian Relasional
-one-to-one:
-- auth (1 user 1 akun)
-- 1 invite id 1 jurnal
-one-to-many:
+1. One-to-one:
+- Auth (1 user 1 akun email)
+- 1 invite ID hanya menyangkut di 1 jurnal dan 1 user
+
+2. One-to-many:
 - 1 user banyak jurnal
 - 1 host banyak invitations
 - 1 jurnal banyak invitations
-many-to-many:
-- banyak user ke banyak notes: 1 jurnal banyak user, 1 user banyak jurnal
+
+3. Many-to-many:
+- Banyak user ke banyak jurnal: 1 jurnal banyak user, 1 user banyak jurnal (notes-sharing)
 
 ## Video Demo
 sss
