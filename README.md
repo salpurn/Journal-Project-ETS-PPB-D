@@ -30,4 +30,4 @@ Tanpa perlu mengkhawatirkan memori lokal perangkat, jurnal ini sudah terintegras
 - Banyak user ke banyak jurnal: 1 jurnal banyak user, 1 user banyak jurnal (notes-sharing)
 
 ## Video Demo
-sss
+https://drive.google.com/file/d/1S705oJCqLZPGN1XwkzKb8WKyPWLbZRIj/view?usp=drive_link
